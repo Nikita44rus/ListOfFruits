@@ -1,0 +1,20 @@
+body{background-color: rgb(237, 158, 174);}
+
+li{margin: none;
+padding: none;
+box-sizing: border-box;
+list-style: none;
+background-color: rgb(198, 99, 118);}
+
+ul{padding: 5px;}
+
+ul li{margin-top: 10px; 
+    display: flex;}
+
+.number{color: white;
+    padding: 10px;}
+
+.Fruit{background-color: rgb(158, 53, 74);
+    color: white;
+    padding: 10px;
+    width: max-content;}
